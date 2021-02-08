@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriella</h1>
 
-- 🌱 I’m currently learning **Laravel and Git**
-
-- 📫 How to reach me **gabriella.guerra@etec.sp.gov.br**
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://getbootstrap.com" target="_blank">
@@ -27,5 +23,9 @@
             width="40" height="40" />
     </a>
 </p>
+
+- 🌱 I’m currently learning **Laravel and Git**
+
+- 📫 How to reach me **gabriella.guerra@etec.sp.gov.br**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellafguerra&show_icons=true&theme=dark&title_color=5d52ff&text_color=ffffff&locale=en&layout=compact" alt="gabriellafguerra" /></p>
