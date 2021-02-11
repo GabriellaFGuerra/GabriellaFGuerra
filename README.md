@@ -26,6 +26,6 @@
 
 - 🌱 I’m currently learning **Laravel and Git**
 
-- 📫 How to reach me **gabriella.guerra@etec.sp.gov.br**
+- 📫 How to reach me: **gabriella.guerra@etec.sp.gov.br**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellafguerra&show_icons=true&theme=dark&title_color=5d52ff&text_color=ffffff&locale=en&layout=compact" alt="gabriellafguerra" /></p>
