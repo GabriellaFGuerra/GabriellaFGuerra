@@ -26,4 +26,4 @@
 
 - 🌱 I’m currently learning **Laravel and Git**
 
-- 📫 How to reach me: **gabriella.guerra@aluno.unip.br**
+- 📫 How to reach me: **gabriellafguerra21@gmail.com**
