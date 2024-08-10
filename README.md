@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/66b7a451b64402e052598966?variant=dark&roadmaps=python)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66b7a451b64402e052598966?variant=dark&roadmaps=python)](https://roadmap.sh)
 
 - 🌱 I’m currently learning **Python**
 
