@@ -71,16 +71,8 @@
 
 <br clear="both">
 
-<h2 align="left">Listen with me</h2>
-
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/rn8169aaesypap6tj7tlg28wo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rn8169aaesypap6tj7tlg28wo&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![roadmap.sh](https://roadmap.sh/card/wide/66b7a451b64402e052598966?variant=dark&roadmaps=python%2Cbackend%2C66b7a899b64402e0525a12ac)](https://roadmap.sh)
 
 ###
