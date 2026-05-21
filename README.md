@@ -1,77 +1,84 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👩‍💻 Gabriella Guerra
 
-###
+## Backend Developer | PHP | Laravel | API Systems | Business Applications
 
-<p align="left">My name is Gabriella and I'm a Back-End Developer, from Brazil.</p>
+---
 
-###
+## PT-BR
 
-<h2 align="left">About me</h2>
+Sou desenvolvedora Back-End especializada em PHP/Laravel, com foco na construção de sistemas web baseados em regras de negócio.
 
-###
+Atuo principalmente no desenvolvimento de aplicações como sistemas internos, ERPs leves, CRMs e APIs REST, com estrutura voltada à manutenção, escalabilidade e organização de código.
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning Python and Flutter<br>🎯 Goals: Master Laravel<br>🎲 Fun fact: I started coding at 11</p>
+Tenho experiência com modelagem de banco de dados, autenticação, controle de permissões e evolução de sistemas já existentes (legado).
 
-###
+Atualmente, estou aprofundando meus estudos em arquitetura de software e boas práticas com Laravel.
 
-<h2 align="left">I code with</h2>
+### 💼 Principais competências
+- PHP / Laravel
+- APIs RESTful
+- MySQL
+- Autenticação e autorização
+- Estruturação de sistemas (MVC, Services, Repositories)
+- Git / GitHub
+- Integração com frontend (HTML, CSS, JavaScript)
 
-###
+### 🧠 Foco atual
+- Arquitetura de software aplicada a sistemas web
+- Refatoração e evolução de sistemas legados
+- Construção de APIs escaláveis com Laravel
+- Boas práticas de organização e manutenção de código
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
+### 📌 Tipo de projetos que desenvolvo
+- Sistemas internos (ERP leve)
+- CRMs
+- Painéis administrativos
+- APIs para aplicações web
+- Sistemas baseados em fluxo de dados e regras de negócio
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabriellaFGuerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## EN
 
-###
+I am a Back-End Developer specialized in PHP/Laravel, focused on building business-driven web systems.
 
-<h2 align="left">Contact me</h2>
+I work mainly with internal systems, lightweight ERPs, CRMs, and REST APIs, with emphasis on maintainability, scalability, and clean architecture.
 
-###
+I have experience with database design, authentication systems, role-based access control, and legacy system improvements.
 
-<div align="left">
-  <a href="https://linkedin.com/in/kaphes-gabriella-guerra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/gabriellafguerr1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="mailto:gabriellafguerra21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### 💼 Core skills
+- PHP / Laravel
+- RESTful APIs
+- MySQL
+- Authentication & authorization
+- System architecture (MVC, Services, Repositories)
+- Git / GitHub
+- Frontend integration (HTML, CSS, JavaScript)
 
-###
+### 🧠 Current focus
+- Software architecture applied to web systems
+- Legacy system refactoring and improvement
+- Scalable API development with Laravel
+- Clean code and maintainability best practices
 
-<br clear="both">
+---
 
-###
+## 📫 Contact
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66b7a451b64402e052598966?variant=dark&roadmaps=python%2Cbackend%2C66b7a899b64402e0525a12ac)](https://roadmap.sh)
+I’m open to opportunities in backend development and system architecture.
 
-###
+- LinkedIn: https://linkedin.com/in/gabriellafguerra
+- GitHub: https://github.com/GabriellaFGuerra
+- Email: gabriellafguerra21@gmail.com
+
+---
+
+## 📊 Learning & Roadmap
+
+Currently improving my skills in:
+- Backend Development (PHP / Laravel)
+- System Architecture
+- API Design
+- Scalable Web Applications
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66b7a451b64402e052598966?variant=dark&roadmaps=backend%2Claravel%2Cphp)](https://roadmap.sh)
